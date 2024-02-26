@@ -1,6 +1,10 @@
 <h1>Hi, I'm Brattynn! <br/><a>Computer Science Student</a>, <a href="https://www.linkedin.com/in/brattynn/">Graphic Design Professional</a>
 
-<h2>👨‍💻 Software Development Projects I Want To Make:</h2>
+<h2>👨‍💻 Projects I've Made:</h2>
+- <b>Java</b>
+  - Mortgage Calculator 
+
+<h2>👨‍💻 Projects I Want To Make:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -18,7 +22,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Videos</h2>
 
 - [None To Show Yet]
 
