@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brattynn! <br/><a>Software Engineering Student</a>, <a href="https://www.linkedin.com/in/brattynn/">Graphic Design Professional</a>, <a href="https://www.youtube.com/c/brattynn">YouTuber</a></h1>
+<h1>Hi, I'm Brattynn! <br/><a>Computer Science Student</a>, <a href="https://www.linkedin.com/in/brattynn/">Graphic Design Professional</a>
 
 <h2>👨‍💻 Software Development Projects I Want To Make:</h2>
 
