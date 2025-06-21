@@ -1,8 +1,7 @@
 <h1>Hi, I'm Brattynn! <br/><a>Computer Science Student</a>, <a href="https://www.linkedin.com/in/brattynn/">Graphic Design Professional</a>
 
 <h2>👨‍💻 Projects I've Made:</h2>
-
-- <b>Java</b>
+  - [Inventory Tracker](https://github.com/brattynn/GraphicsTracker)
   - [Mortgage Calculator](https://github.com/brattynn/JavaMortgageCalc)
 
 <h2>👨‍💻 Projects I Want To Make:</h2>
