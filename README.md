@@ -6,7 +6,6 @@
 ## 👨‍💻 Projects I've Made
 
 - [Inventory Tracker](https://github.com/brattynn/GraphicsTracker)
-- [Mortgage Calculator](https://github.com/brattynn/JavaMortgageCalc)
 
 ---
 
