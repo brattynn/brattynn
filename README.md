@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Projects I've Made
 
-- [Student Roster System - WGU](https://github.com/brattynn/GraphicsTracker)
+- [Student Roster System - WGU](https://github.com/brattynn/StudentRoster)
 
 ---
 
