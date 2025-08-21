@@ -1,47 +1,71 @@
-# Hi, I'm Brattynn!  
-**Computer Science Student** • [Graphic Design Professional](https://www.linkedin.com/in/brattynn/)
+
+# 🏄‍♂️ Brattynn Thompson
+
+**`Student Developer`**
+
+Hi, I’m Brattynn — a Computer Science student, indie developer, and creative builder shaping my path into tech one project at a time.\
+💻 From Java back-end services to SQL database design and web applications, I build projects from the ground up — planning, coding, debugging, and refining them into portfolio-ready solutions. My work blends academic projects, personal experimentation, and home lab builds that push me to solve real-world problems.\
+🎨 Outside of code, I’m a designer, musician, and podcast producer who enjoys creating across multiple mediums — whether it’s graphics for million-dollar vehicles, producing and hosting a collaborative storytelling podcast, or engineering music pieces.\
+📚 I document my learning journey, portfolio projects, and experiments here on GitHub to showcase my growth and share ideas with others making their way into tech.
+
+### Connect with Me
+   <p align="left">
+        <a href="https://www.tiktok.com/@brattynn" target="_blank">
+  <img alt="LinkedIn" title="Connect with me on LinkedIn" width="50px" src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000"/></a>
+        <a href="https://www.linkedin.com/in/brattynn/" target="_blank">
+  <img alt="TikTok" title="Connect with me on TikTok" width="50px" src="https://img.icons8.com/?size=100&id=KeTtCQ_b-ZiV&format=png&color=000000"/></a>
+        <a href="https://www.instagram.com/brattynn/" target="_blank">
+  <img alt="Instagram" title="Connect with me on Instagram" width="50px" src="https://img.icons8.com/?size=100&id=43625&format=png&color=000000"/></a>
+        <a href="https://www.facebook.com/brattynn" target="_blank">
+  <img alt="Facebook" title="Connect with me on Facebook" width="50px" src="https://img.icons8.com/?size=100&id=44003&format=png&color=000000"/></a>
+        <a href="https://x.com/brattynn" target="_blank">
+  <img alt="X" title="Connect with me on X" width="50px" src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000"/></a>
+        <a href="https://www.youtube.com/@NightOwlCS" target="_blank">
+  <img alt="YouTube" title="Connect with me on YouTube" width="50px" src="https://img.icons8.com/?size=100&id=63852&format=png&color=000000"/></a>
+   </p>
 
 ---
 
-## 👨‍💻 Projects I've Made
+### 🧰 Languages and Tools
 
-- [Student Roster System - WGU](https://github.com/brattynn/StudentRoster)
+<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
----
+[//]: # (<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />)
+[//]: # (<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />)
+<img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-## 🧠 Projects I Want To Make
+[//]: # (<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />)
+<img align="left" alt="HTML" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
-### Data Structures and Algorithms
-- [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+[//]: # (<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />)
+[//]: # (<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />)
 
-### Full Stack Web App (React, NodeJS, Azure, ML)
-- [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) *(Potentially NSFW)*
+[//]: # (<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />)
 
-### PowerShell
-- [Windows EventLog IP to GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- [JWipe – Disk Wiping Utility](https://github.com/joshmadakor1/Jwipe.PowerShell)
-- [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-- [File Integrity Monitor (FIM)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+[//]: # (<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />)
 
-### C# (.NET Desktop Apps)
-- [Ransomware PoC – Encrypter](https://github.com/joshmadakor1/EncrypterPOC)
-- [Ransomware PoC – Decrypter](https://github.com/joshmadakor1/DecrypterPOC)
-- [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+[//]: # (<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />)
+<img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-### Python
-- [Package Delivery Application (Pathfinding Algorithm Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+[//]: # (<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />)
+<br />
 
----
+<br><br>
 
-## 📺 Videos
+### 🧰 Certificates and Certifications
+<img align="left" alt="GitHub" width="100px" style="padding-right:10px;" src="https://api.badgr.io/public/badges/A_NJvOaXRlSyRgeYW6mGHA/image" />
 
-*None to show yet.*
+<br><br> 
+<br><br>
+<br>
 
----
+### Featured Projects
 
-## 🤳 Connect with Me
-
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/c/brattynn)
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/brattynn)
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/brattynn)
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/brattynn/)
+<a href="https://github.com/brattynn/Back-End-Migration" target="_blank">
+  <img alt="Project Link" title="Back End Migration Project" width="50px" 
+       src="https://img.icons8.com/?size=100&id=WMvhDPZBJ9X2&format=png&color=000000" 
+       style="vertical-align: middle;"/>
+  <span style="vertical-align: middle; font-size: 18px;">Back-End Migration</span>
+</a>
