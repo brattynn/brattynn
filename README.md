@@ -86,3 +86,12 @@ Hi, I’m Brattynn — a Computer Science student, indie developer, and creative
        style="vertical-align: middle;"/>
   <span style="vertical-align: middle; font-size: 18px;">Roster Management System</span>
 </a>
+
+<br>
+
+<a href="https://github.com/brattynn/Spring-Inventory-Management-System" target="_blank">
+  <img alt="Project Link" title="Inventory Management System" width="50px" 
+       src="https://img.icons8.com/?size=100&id=X-WB1cntO5xU&format=png&color=000000" 
+       style="vertical-align: middle;"/>
+  <span style="vertical-align: middle; font-size: 18px;">Inventory Management System</span>
+</a>
