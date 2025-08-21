@@ -1,4 +1,3 @@
-
 # 🏄‍♂️ Brattynn Thompson
 
 **`Student Developer`**
@@ -68,4 +67,22 @@ Hi, I’m Brattynn — a Computer Science student, indie developer, and creative
        src="https://img.icons8.com/?size=100&id=WMvhDPZBJ9X2&format=png&color=000000" 
        style="vertical-align: middle;"/>
   <span style="vertical-align: middle; font-size: 18px;">Back-End Migration</span>
+</a>
+
+<br>
+
+<a href="https://github.com/brattynn/Advanced-Data-Management-Project" target="_blank">
+  <img alt="Project Link" title="Data Management Project" width="50px" 
+       src="https://img.icons8.com/?size=100&id=ByCcJFjqrzw8&format=png&color=000000" 
+       style="vertical-align: middle;"/>
+  <span style="vertical-align: middle; font-size: 18px;">Advanced Data Management</span>
+</a>
+
+<br>
+
+<a href="https://github.com/brattynn/Roster-Management-System" target="_blank">
+  <img alt="Project Link" title="Roster Management System" width="50px" 
+       src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" 
+       style="vertical-align: middle;"/>
+  <span style="vertical-align: middle; font-size: 18px;">Roster Management System</span>
 </a>
