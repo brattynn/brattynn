@@ -9,9 +9,9 @@ Hi, I’m Brattynn — a Computer Science student, indie developer, and creative
 
 ### Connect with Me
    <p align="left">
-        <a href="https://www.tiktok.com/@brattynn" target="_blank">
-  <img alt="LinkedIn" title="Connect with me on LinkedIn" width="50px" src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000"/></a>
         <a href="https://www.linkedin.com/in/brattynn/" target="_blank">
+  <img alt="LinkedIn" title="Connect with me on LinkedIn" width="50px" src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000"/></a>
+        <a href="https://www.tiktok.com/@brattynn" target="_blank">
   <img alt="TikTok" title="Connect with me on TikTok" width="50px" src="https://img.icons8.com/?size=100&id=KeTtCQ_b-ZiV&format=png&color=000000"/></a>
         <a href="https://www.instagram.com/brattynn/" target="_blank">
   <img alt="Instagram" title="Connect with me on Instagram" width="50px" src="https://img.icons8.com/?size=100&id=43625&format=png&color=000000"/></a>
