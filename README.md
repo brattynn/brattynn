@@ -53,8 +53,9 @@ Hi, I’m Brattynn — a Computer Science student, indie developer, and creative
 
 <br><br>
 
-### 🧰 Certificates and Certifications
+### 🧰 Certificates
 <img align="left" alt="GitHub" width="100px" style="padding-right:10px;" src="https://api.badgr.io/public/badges/A_NJvOaXRlSyRgeYW6mGHA/image" />
+<img align="left" alt="GitHub" width="100px" style="padding-right:10px;" src="https://api.badgr.io/public/badges/gqX2hTVFQ2Scu95xTvAh-w/image" />
 
 <br><br> 
 <br><br>
