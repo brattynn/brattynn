@@ -64,6 +64,15 @@ Hi, I’m Brattynn — a Computer Science student, indie developer, and creative
 ### Featured Projects
 
 <a href="https://github.com/brattynn/Back-End-Migration" target="_blank">
+  <img alt="Project Link" title="Multithreaded Scheduling Project" width="50px" 
+       src="https://img.icons8.com/?size=100&id=WMvhDPZBJ9X2&format=png&color=000000" 
+       style="vertical-align: middle;"/>
+  <span style="vertical-align: middle; font-size: 18px;">Back-End Migration</span>
+</a>
+
+<br>
+
+<a href="https://github.com/brattynn/Back-End-Migration" target="_blank">
   <img alt="Project Link" title="Back End Migration Project" width="50px" 
        src="https://img.icons8.com/?size=100&id=WMvhDPZBJ9X2&format=png&color=000000" 
        style="vertical-align: middle;"/>
