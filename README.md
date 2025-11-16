@@ -7,7 +7,7 @@ I’m a Computer Science student and independent developer building my way into 
 
 - 💻 I work with Java, SQL, and web technologies to create back-end services, databases, and full applications from the ground up.
 - 🛠 My projects combine academic coursework, personal experiments, and home lab builds that push me to solve real-world problems.
-- 🎨 With a background in design and music, I enjoy creating across multiple mediums — from graphics for fire trucks to podcast production and music composition.
+- 🎨 With a background in design and music, I enjoy creating across multiple mediums — from graphics for vehicles to podcast production and music composition.
 
 I use GitHub to document my learning journey, showcase portfolio projects, and share experiments with others exploring software development.
 
