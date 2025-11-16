@@ -1,6 +1,6 @@
 # Brattynn Thompson
 
-**`Founder | Developer`**
+**`Developer`**
 
 About Me
 I’m a Computer Science student and independent developer building my way into tech one project at a time.
@@ -65,7 +65,20 @@ I use GitHub to document my learning journey, showcase portfolio projects, and s
 <br><br>
 <br>
 
-### Featured Projects
+### Personal Projects
+
+<a href="https://github.com/brattynn/TicTacToe" target="_blank">
+  <img alt="Project Link" title="Tic-Tac-Toe" width="50px" 
+       src="https://img.icons8.com/?size=100&id=UjWo5Ddli6pO&format=png&color=000000" 
+       style="vertical-align: middle;"/>
+  <span style="vertical-align: middle; font-size: 18px;">Tic-Tac-Toe</span>
+</a>
+
+<br>
+
+<br><br>
+
+### Academic Projects
 
 <a href="https://github.com/brattynn/Hotel-Scheduling-Application" target="_blank">
   <img alt="Project Link" title="Multithreaded Scheduling Project" width="50px" 
