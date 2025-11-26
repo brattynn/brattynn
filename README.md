@@ -59,8 +59,10 @@ I use GitHub to document my learning journey, showcase portfolio projects, and s
 <br><br>
 
 ### 🧰 Certificates
+<img align="left" alt="ITIL" width="100px" style="padding-right:10px;" src="https://badges.peoplecert.org/Badges/Template/en/180/ec721fda-bb43-434e-8ef8-e99f8c748ee4" />
 <img align="left" alt="GitHub" width="100px" style="padding-right:10px;" src="https://api.badgr.io/public/badges/A_NJvOaXRlSyRgeYW6mGHA/image" />
 <img align="left" alt="GitHub" width="100px" style="padding-right:10px;" src="https://api.badgr.io/public/badges/gqX2hTVFQ2Scu95xTvAh-w/image" />
+
 
 <br><br> 
 <br><br>
