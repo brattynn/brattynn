@@ -76,6 +76,15 @@ I use GitHub to document my learning journey, showcase portfolio projects, and s
 
 <br>
 
+<a href="https://github.com/brattynn/Python-Input-Event-Logger" target="_blank">
+  <img alt="Project Link" title="Tic-Tac-Toe" width="50px" 
+       src="https://img.icons8.com/?size=100&id=43998&format=png&color=000000" 
+       style="vertical-align: middle;"/>
+  <span style="vertical-align: middle; font-size: 18px;">Python Input Event Logger</span>
+</a>
+
+<br>
+
 <br><br>
 
 ### Academic Projects
